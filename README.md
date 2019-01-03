@@ -17,8 +17,8 @@ Why? Size Does Matter. Alpine is fast, small and secure.
 ## HowTo start 
 
 1. Clone repo and copy env example with changing if needed: `cp .env-example .env`
-2. Run docker-compose 'sudo docker-compose up -d --build'
-3. Open `http://127.0.0.1:8080/` and check for 'Hello, World!'.
+2. Run docker-compose `sudo docker-compose up -d --build`
+3. Open `http://127.0.0.1:8080/` and check for `Hello, World!`.
 
 ## Notes
 
