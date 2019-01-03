@@ -23,4 +23,5 @@ Why? Size Does Matter. Alpine is fast, small and secure.
 ## Notes
 
 * Developer can edit files in path `php_sources/app/` and `nginx/conf/` in realtime, it is mounted as volumes. For applying changes containers might to be restarted with: `sudo docker-compose restart CONTAINER`.
+* Developer can customize any options within `.env` file.
 * PHP sources need to be provided in `./php_sources/app/` directory. 
