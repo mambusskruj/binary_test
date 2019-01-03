@@ -1,11 +1,15 @@
 # DevOps Engineer position test task
 
+## Requirements
+* Docker Engine 1.13.0+
+* Docker-compose 1.10.0+
+
 ## Services 
-* Nginx
+* Nginx 1.15 
 * PHP 7.3 (with xdebug and json extensions), composer
 * MySql 8.0
-* Redis
-* RabbitMQ
+* Redis 5.0
+* RabbitMQ 3.7
 
 ## What OS will you choose for your containers? Why?
 Alpine Linux.
